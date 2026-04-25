@@ -6,9 +6,9 @@ A React-based Netflix UI clone built with Vite + React Router.
 
 | Member | Contribution |
 |--------|-------------|
-| Friend 1 | Landing Page, Navbar, Hero Section, Project Setup |
-| Friend 2 | Login Page, Signup Form |
-| Friend 3 | Browse Page, Movie Cards, Movie Rows |
+| Yash Boora | Landing Page, Navbar, Hero Section, Project Setup |
+| Krish Kumar | Login Page, Signup Form |
+| Krish Phogat | Browse Page, Movie Cards, Movie Rows |
 
 ## Tech Stack
 
